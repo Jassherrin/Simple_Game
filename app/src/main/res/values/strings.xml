@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple Game</string>
+    <string name="atk">Attack</string>
+    <string name="stats">Analyze Enemy stats</string>
+    <string name="hit_chance">Analyze hit chance</string>
+    <string name="level">Level</string>
+    <string name="a">--</string>
+    <string name="your_spd">Your SPD:</string>
+    <string name="your_atk">Your ATK:</string>
+    <string name="your_hp">Your HP:</string>
+    <string name="b">--</string>
+    <string name="the_promised_game">The Promised Game</string>
+</resources>
